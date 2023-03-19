@@ -1,10 +1,10 @@
 Meeting - Notes:
 
-Presentation date: 
+Presentation date: 31.03.2023 (online)
 
+next meetup? 27.03.2023
 
-next meetup?
+Preperation:
+- Alle Videos anschauen 
 
-
-- ipynb als Präsentationsmedium
--  
+- ipynb als Präsentationsmedium  
