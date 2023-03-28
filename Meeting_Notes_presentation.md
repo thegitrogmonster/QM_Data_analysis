@@ -33,4 +33,4 @@ show git in VS
     - explain the various buttons/symbols/etc from (Martina)
     - present a live commit (Martina)
     - merge editor in VSCode (Mathias)
-        - show creation of branch in VS code
+        - show creation of branch in VS code 
